@@ -1,0 +1,20 @@
+.help {
+  background: #efefef;
+  width: 98%;
+  margin-top: -25px;
+}
+.help:hover {
+  background: #ccc;
+}
+/* .help:nth-child(1) {
+  margin-top: 55px;
+} */
+.ul-margin:nth-child(1) {
+  margin-top: 95px;
+}
+body {
+  width: 100%;
+  max-width: 100%;
+  margin: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
