@@ -4,7 +4,7 @@ import axios from "axios";
 import NowShowing from "./Components/NowShowing";
 import Header from "./Components/Header";
 const URL =
-  "https://api.themoviedb.org/3/trending/movie/day?api_key=a876e7500012d962d40cf6ba7bd19019";
+  //"https://api.themoviedb.org/3/trending/movie/day?api_key=a876e7500012d962d40cf6ba7bd19019";
   // "https://api.themoviedb.org/3/search/movie?api_key=a876e7500012d962d40cf6ba7bd19019&language=en-US&query=superman&page=1&include_adult=false";
   "https://api.themoviedb.org/3/movie/now_playing?api_key=a876e7500012d962d40cf6ba7bd19019&language=en-US&page=1&region=gb";
 class App extends React.Component {
