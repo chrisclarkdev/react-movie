@@ -19,7 +19,7 @@ class App extends React.Component {
       this.setState({ trends: res.data.results, loading: false });
     });
   }
-
+// Testing the code here 
   render() {
     return (
       <div
